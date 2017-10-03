@@ -8,6 +8,9 @@
     },
     "com.sonburn.sketchplugins.symbol-organizer": {
       "version": "=13.1.0"
+    },
+    "com.taptap.ninja.rename-it": {
+      "version": "=3.0.1"
     }
   }
 }
